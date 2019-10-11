@@ -102,6 +102,14 @@
       <option name="presentableId" value="Default" />
       <updated>1570763474143</updated>
     </task>
+    <task id="LOCAL-00001" summary="Start of web app">
+      <created>1570765859630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570765859630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -126,6 +134,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start of web app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start of web app" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Visitation.html">
